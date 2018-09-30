@@ -1,2 +1,2 @@
 # UlaaBible
-Repository for the book of the Ruby
+Repository for the Book of the Ruby
